@@ -1,0 +1,2 @@
+E:\Users\KaKaShUruk\Documents\Dev\Projet CPP\Raven Engine\x64\Debug\Raven Engine.exe
+E:\Users\KaKaShUruk\Documents\Dev\Projet CPP\Raven Engine\x64\Debug\Raven Engine.pdb
